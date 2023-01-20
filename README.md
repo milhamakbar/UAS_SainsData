@@ -1,6 +1,6 @@
 # Ujian Akhir Semester Sains Data
 ```
-Muhammad Ilham Akbaar
+Muhammad Ilham Akbar
 19.01.013.076
 Sains Data
 ```
